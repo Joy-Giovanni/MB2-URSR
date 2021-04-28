@@ -12,4 +12,4 @@ I will use 3 examples each representing one vector data type:
 -	Roads for line
 -	Hospitals for point
 
-Rasterize the results to visualize the distribution and later displaying the percentage of houses found in a particular distance of range. Which goes with understanding the advantage or risks attached for the proximity.
+Rasterize the results to visualize the distribution and later displaying the percentage of houses found in a particular distance range. Which goes with understanding the advantage or risks attached with the proximity.
